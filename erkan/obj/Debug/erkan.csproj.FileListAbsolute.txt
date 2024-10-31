@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\erkan\bin\Debug\erkan.exe.config
+C:\Users\user\source\repos\erkan\bin\Debug\erkan.exe
+C:\Users\user\source\repos\erkan\bin\Debug\erkan.pdb
+C:\Users\user\source\repos\erkan\obj\Debug\erkan.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\erkan\obj\Debug\erkan.Form1.resources
+C:\Users\user\source\repos\erkan\obj\Debug\erkan.Properties.Resources.resources
+C:\Users\user\source\repos\erkan\obj\Debug\erkan.csproj.GenerateResource.cache
+C:\Users\user\source\repos\erkan\obj\Debug\erkan.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\erkan\obj\Debug\erkan.exe
+C:\Users\user\source\repos\erkan\obj\Debug\erkan.pdb
